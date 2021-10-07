@@ -8,7 +8,7 @@ We would like you to explore our Repo, Contribute and Star.
 
 **Happy Hacking!**
 
-## Repositories
+## Repositories & Contribution Ideas
 
 Under [Devtron_labs](https://github.com/devtron-labs) we have repos that are labeled [Hacktoberfest](https://github.com/search?q=org%3Adevtron-labs+hacktoberfest&type=repositories). These are some of the repos that you might want to start with, jump in and find interesting ways to contribute.
 
@@ -33,6 +33,17 @@ Let's Get Started
 
 * [Built in Helm Chart Support](https://github.com/devtron-labs/silver-surfer/issues/14)
 
+### Contribution Ideas
+
+* If you would like to contribute through videos & blogs you can check out [community contributions](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md)
+
+* We believe you all are talented enough to have your own contribution ideas and suggestions. We welcome you all with open hands.
+
+## Our Community
+We would love to have you in our Community!<br>
+
+[![Join Devtron : Heroku for Kubernetes](https://discordapp.com/api/guilds/769482988882493450/widget.png?style=banner2)](https://discord.gg/9MrMwGDR)
+
 ## Giveaways
 
 Coming Soon
@@ -42,5 +53,3 @@ Coming Soon
 You are welcome to contribte in any of the repositories listed above. Feel free to play around devtron and explore its different features. When submitting a PR please add `Hacktoberfest` in the PR Description. This would give us a confirmation on whether the PR is for Hacktoberfest. 
 
 Please ensure your submission follows all the Contribution Guidelines mentioned in the respective Repositories.
-
-Join our [Discord](https://discord.com/invite/jsRG5qx2gp) if you need any kind of help.
