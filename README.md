@@ -1,8 +1,8 @@
 # hacktoberfest2021
 
-![hacktoberfest-2021](./assets/hacktoberfest.png)
+![hacktoberfest-2021](./assets/hacktoberfest2021.png)
 
-Devtron is honoured to celebrate it's 1st hacktoberfest with the community all across the globe. Being an opensource platform, we welcome developers with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognise all your efforts for contributions and would like to honour your work by providing you some great goodies and giveaways from our end apart from hacktoberfest.
+[Devtron](github.com/devtron-labs/devtron) is honoured to celebrate it's 1st hacktoberfest with the community all across the globe. Being an opensource platform, we welcome developers with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognise all your efforts for contributions and would like to honour your work by providing you some great goodies and giveaways from our end apart from hacktoberfest.
 
 We would like you to explore our Repo, Contribute and Star. 
 
@@ -10,7 +10,7 @@ We would like you to explore our Repo, Contribute and Star.
 
 ## Repositories & Contribution Ideas
 
-Under [Devtron_labs](https://github.com/devtron-labs) we have repos that are labeled [Hacktoberfest](https://github.com/search?q=org%3Adevtron-labs+hacktoberfest&type=repositories). These are some of the repos that you might want to start with, jump in and find interesting ways to contribute.
+Under [Devtron-labs](https://github.com/devtron-labs) we have repos that are labeled [Hacktoberfest](https://github.com/search?q=org%3Adevtron-labs+hacktoberfest&type=repositories). These are some of the repos that you might want to start with, jump in and find interesting ways to contribute.
 
 Let's Get Started
 
@@ -35,7 +35,7 @@ Let's Get Started
 
 ### Contribution Ideas
 
-* If you would like to contribute through videos & blogs you can check out [community contributions](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md)
+* If you would like to contribute through videos & blogs you can check out [Community Contributions](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md).
 
 * We believe you all are talented enough to have your own contribution ideas and suggestions. We welcome you all with open hands.
 
