@@ -50,12 +50,11 @@ We have exiting gifts for our contributors during Hacktoberfest celebrating Open
 
 | No of PR submissions  | Swag! |
 | ------------- | ------------- |
-| 1 PR Submission  | 5 stickers  |
-| 2 PR Submissions  | 5 stickers + 1 Diary   |
-| 3 PR Submissions  | 5 stickers + 1 Diary + 1 coaster/T-shirt  |
-| 4 PR Submissions  | 5 stickers + 1 Diary + 1 coaster + 1 T-Shirt  |
-| Special Prize: Most innovative/Unique PR  | 2 T-Shirts  |
-| Special Prize: Maximum number of PRs  | 1 T-shirt + 1 Diary  |
+| 1 PR Submission  | 5 stickers + 1 T-Shirt |
+| 2 PR Submissions  | 5 stickers + 1 Diary + 1 T-Shirt  |
+| >2 PR Submissions  | 5 stickers + 1 Diary + 1 T-Shirt + 1 Coaster(Devtron Swag Package)  |
+| Special Prize: Most innovative/Unique PR  | Devtron Swag Package + Cool electronic Gadgets  |
+| Special Prize: Maximum number of PRs  | Devtron Swag Package + Cool electronic Gadgets  |
 
 ## :book: Contribution Guidelines
 
