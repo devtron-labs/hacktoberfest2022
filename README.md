@@ -2,7 +2,7 @@
 
 ![hacktoberfest-2021](./assets/hacktoberfest2021.png)
 
-[Devtron](github.com/devtron-labs/devtron) is honoured to celebrate it's 1st hacktoberfest with the community all across the globe. Being an opensource platform, we welcome developers with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognise all your efforts for contributions and would like to honour your work by providing you some great goodies and giveaways from our end apart from hacktoberfest.
+[Devtron](https://github.com/devtron-labs/devtron) is honoured to celebrate it's 1st hacktoberfest with the community all across the globe. Being an opensource platform, we welcome developers with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognise all your efforts for contributions and would like to honour your work by providing you some great goodies and giveaways from our end apart from hacktoberfest.
 
 We would like you to explore our Repo, Contribute and Star. 
 
