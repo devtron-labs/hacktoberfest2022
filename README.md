@@ -4,7 +4,7 @@
 
 [Devtron](https://github.com/devtron-labs/devtron) is honoured to celebrate it's 1st hacktoberfest with the community all across the globe. Being an opensource platform, we welcome developers with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognise all your efforts for contributions and would like to honour your work by providing you some great goodies and giveaways from our end apart from hacktoberfest.
 
-We would like you to explore our Repo, Contribute and Star. 
+We are happy to see you here and we believe that each [star ⭐️](https://github.com/devtron-labs/devtron) enables us in showcasing devtron to a wider community.  
 
 **Happy Hacking!**
 
@@ -19,6 +19,10 @@ Let's Get Started
 * [Community Chart Contributions](https://github.com/devtron-labs/devtron/tree/main/contrib-chart)
 
 * [Sample Docker Templates](https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates)
+
+* [Documentations](https://docs.devtron.ai/)
+
+
 
 
 ### :hammer: Silver-Surfer
@@ -37,16 +41,18 @@ Let's Get Started
 
 * If you would like to contribute through videos & blogs you can check out [Community Contributions](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md).
 
+* We also welcome the issues and enhancements raised by our contributors as we believe in the phrase ”Together we are stronger”. Feel free to create your valid issues which you think are essential in the respective repositories. We will soon assign them to you so that you can give your best shot.
+
 * We believe you all are talented enough to have your own contribution ideas and suggestions. We welcome you all with open hands.
 
 ## :busts_in_silhouette: Our Community
-We would love to have you in our Community!<br>
+If you have any issues, concerns regarding the contributions or you’re curious to know more about Devtron; we would love to have you in our Community!<br>
 
 [![Join Devtron : Heroku for Kubernetes](https://discordapp.com/api/guilds/769482988882493450/widget.png?style=banner2)](https://discord.gg/9MrMwGDR)
 
 ## :gift: Giveaways
 
-We have exiting gifts for our contributors during Hacktoberfest celebrating Opensource. Each of your additional accepted PR to anyone of our Repos would give you more exciting giveaways. 
+We have exciting gifts for our contributors during Hacktoberfest celebrating Opensource. Each of your additional accepted PR to anyone of our Repos would give you more exciting giveaways. 
 
 | No of PR submissions  | Swag! |
 | ------------- | ------------- |
@@ -55,6 +61,14 @@ We have exiting gifts for our contributors during Hacktoberfest celebrating Open
 | >2 PR Submissions  | 5 stickers + 1 Diary + 1 T-Shirt + 1 Coaster(Devtron Swag Package)  |
 | Special Prize: Most innovative/Unique PR  | Devtron Swag Package + Cool electronic Gadgets  |
 | Special Prize: Maximum number of PRs  | Devtron Swag Package + Cool electronic Gadgets  |
+
+### Giveaways entry steps
+
+* Once the PR is raised you can join the discord community for the upcoming updates.
+
+* After joining the community, send your PR link on the #contrib channel with the tag @hacktoberfest.
+
+* We will evaluate the PR and once it is accepted , we will send you the swags.
 
 ## :book: Contribution Guidelines
 
