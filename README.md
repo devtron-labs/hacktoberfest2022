@@ -25,7 +25,7 @@ Let's Get Started
 
 
 
-### :hammer: Silver-Surfer
+### :hammer: Silver-Surfer (Issues)
 
 * [Color output unreadable in terminal with light background](https://github.com/devtron-labs/silver-surfer/issues/9)
 
@@ -56,15 +56,15 @@ We have exciting gifts for our contributors during Hacktoberfest celebrating Ope
 
 | No of PR submissions  | Swag! |
 | ------------- | ------------- |
-| 1 PR Submission  | 5 stickers + 1 T-Shirt |
-| 2 PR Submissions  | 5 stickers + 1 Diary + 1 T-Shirt  |
-| >2 PR Submissions  | 5 stickers + 1 Diary + 1 T-Shirt + 1 Coaster(Devtron Swag Package)  |
-| Special Prize: Most innovative/Unique PR  | Devtron Swag Package + Cool electronic Gadgets  |
-| Special Prize: Maximum number of PRs  | Devtron Swag Package + Cool electronic Gadgets  |
+| 1 Merged PR  | Stickers Pack + 1 T-Shirt |
+| 2 Merged PR  | Stickers Pack + 1 Diary + 1 T-Shirt  |
+| 3 or 3+ Merged PR  | Stickers Pack + 1 Diary + 1 T-Shirt + 1 Coaster (Devtron Swag Pack)  |
+| Special Prize: Most Innovative/Unique PR  | Devtron Swag Pack + Surprise Box  |
+| Special Prize: Maximum number of PRs  | Devtron Swag Pack + Surprise Box  |
 
-### Giveaways entry steps
+### Giveaways Entry Steps
 
-* Once the PR is raised you can join the discord community for the upcoming updates.
+* Once the PR is raised you can join the [discord community](https://discord.gg/9MrMwGDR) for the upcoming updates.
 
 * After joining the community, send your PR link on the #contrib channel with the tag @hacktoberfest.
 
