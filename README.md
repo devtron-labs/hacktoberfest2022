@@ -2,7 +2,7 @@
 
 ![hacktoberfest-2021](./assets/hacktoberfest2021.png)
 
-[Devtron](https://github.com/devtron-labs/devtron) is honoured to celebrate it's 1st hacktoberfest with the community all across the globe. Being an opensource platform, we welcome developers with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognise all your efforts for contributions and would like to honour your work by providing you some great goodies and giveaways from our end apart from hacktoberfest.
+[Devtron](https://github.com/devtron-labs/devtron) is honoured to celebrate it's 1st hacktoberfest with the community all across the globe. Being an open source platform, we welcome developers with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognise all your efforts for contributions and would like to honour your work by providing you some great goodies and giveaways from our end apart from hacktoberfest.
 
 We are happy to see you here and we believe that each [star ⭐️](https://github.com/devtron-labs/devtron) enables us in showcasing devtron to a wider community.  
 
@@ -52,7 +52,7 @@ If you have any issues, concerns regarding the contributions or you’re curious
 
 ## :gift: Giveaways
 
-We have exciting gifts for our contributors during Hacktoberfest celebrating Opensource. Each of your additional accepted PR to anyone of our Repos would give you more exciting giveaways. 
+We have exciting gifts for our contributors during Hacktoberfest celebrating Open source. Each of your additional accepted PR to anyone of our Repos would give you more exciting giveaways. 
 
 | No of PR submissions  | Swag! |
 | ------------- | ------------- |
@@ -72,6 +72,6 @@ We have exciting gifts for our contributors during Hacktoberfest celebrating Ope
 
 ## :book: Contribution Guidelines
 
-You are welcome to contribte in any of the repositories listed above. Feel free to play around devtron and explore its different features. When submitting a PR please add `Hacktoberfest` in the PR Description. This would give us a confirmation on whether the PR is for Hacktoberfest. 
+You are welcome to contribute to any of the repositories listed above. Feel free to play around devtron and explore its different features. When submitting a PR please add `Hacktoberfest` in the PR Description. This would give us a confirmation on whether the PR is for Hacktoberfest. 
 
 Please ensure your submission follows all the Contribution Guidelines mentioned in the respective Repositories.
