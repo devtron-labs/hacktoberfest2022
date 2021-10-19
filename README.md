@@ -48,7 +48,7 @@ Let's Get Started
 ## :busts_in_silhouette: Our Community
 If you have any issues, concerns regarding the contributions or you’re curious to know more about Devtron; we would love to have you in our Community!<br>
 
-[![Join Devtron : Heroku for Kubernetes](https://discordapp.com/api/guilds/769482988882493450/widget.png?style=banner2)](https://discord.gg/9MrMwGDR)
+[![Join Devtron : Heroku for Kubernetes](https://discordapp.com/api/guilds/769482988882493450/widget.png?style=banner2)](https://discord.gg/jsRG5qx2gp)
 
 ## :gift: Giveaways
 
@@ -64,7 +64,7 @@ We have exciting gifts for our contributors during Hacktoberfest celebrating Ope
 
 ### Giveaways Entry Steps
 
-* Once the PR is raised you can join the [discord community](https://discord.gg/9MrMwGDR) for the upcoming updates.
+* Once the PR is raised you can join the [discord community](https://discord.gg/jsRG5qx2gp) for the upcoming updates.
 
 * After joining the community, send your PR link on the #contrib channel with the tag @hacktoberfest.
 
