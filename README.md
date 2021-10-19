@@ -12,6 +12,8 @@ We are happy to see you here and we believe that each [star ⭐️](https://gith
 
 Under [Devtron-labs](https://github.com/devtron-labs) we have repos that are labeled [Hacktoberfest](https://github.com/search?q=org%3Adevtron-labs+hacktoberfest&type=repositories). These are some of the repos that you might want to start with, jump in and find interesting ways to contribute.
 
+**Note: Non-Code PR Submissions need to have meaningful changes that span over 20 lines. PRs would not be accepted if the changes seem too insignificant or unnecessary.**
+
 Let's Get Started
 
 ### :hammer: Devtron
@@ -48,11 +50,13 @@ Let's Get Started
 ## :busts_in_silhouette: Our Community
 If you have any issues, concerns regarding the contributions or you’re curious to know more about Devtron; we would love to have you in our Community!<br>
 
-[![Join Devtron : Heroku for Kubernetes](https://discordapp.com/api/guilds/769482988882493450/widget.png?style=banner2)](https://discord.gg/9MrMwGDR)
+[![Join Devtron : Heroku for Kubernetes](https://discordapp.com/api/guilds/769482988882493450/widget.png?style=banner2)](https://discord.gg/jsRG5qx2gp)
 
 ## :gift: Giveaways
 
 We have exciting gifts for our contributors during Hacktoberfest celebrating Opensource. Each of your additional accepted PR to anyone of our Repos would give you more exciting giveaways. 
+
+**Note: 1 Blog submission/ 1 Video Submission is considered 2 PR submissions.**
 
 | No of PR submissions  | Swag! |
 | ------------- | ------------- |
@@ -64,7 +68,7 @@ We have exciting gifts for our contributors during Hacktoberfest celebrating Ope
 
 ### Giveaways Entry Steps
 
-* Once the PR is raised you can join the [discord community](https://discord.gg/9MrMwGDR) for the upcoming updates.
+* Once the PR is raised you can join the [discord community](https://discord.gg/jsRG5qx2gp) for the upcoming updates.
 
 * After joining the community, send your PR link on the #contrib channel with the tag @hacktoberfest.
 
