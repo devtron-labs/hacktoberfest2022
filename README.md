@@ -6,7 +6,7 @@
 
 We are happy to see you here and we believe that each [star ⭐️](https://github.com/devtron-labs/devtron) enables us in showcasing devtron to a wider community.  
 
-**Happy Hacking!**
+**Happy Hacking!!**
 
 ## :wrench: Repositories & Contribution Ideas
 
@@ -54,7 +54,7 @@ If you have any issues, concerns regarding the contributions or you’re curious
 
 ## :gift: Giveaways
 
-We have exciting gifts for our contributors during Hacktoberfest celebrating Opensource. Each of your additional accepted PR to anyone of our Repos would give you more exciting giveaways. 
+We have exciting gifts for our contributors during Hacktoberfest celebrating Opensource. Each of your additional accepted PR to anyone of our Repositories would give you more exciting giveaways. 
 
 **Note: 1 Blog submission/ 1 Video Submission is considered 2 PR submissions.**
 
