@@ -76,6 +76,6 @@ We have exciting gifts for our contributors during Hacktoberfest celebrating Ope
 
 ## :book: Contribution Guidelines
 
-You are welcome to contribte in any of the repositories listed above. Feel free to play around devtron and explore its different features. When submitting a PR please add `Hacktoberfest` in the PR Description. This would give us a confirmation on whether the PR is for Hacktoberfest. 
+You are welcome to contribute in any of the repositories listed above. Feel free to play around devtron and explore its different features. When submitting a PR please add `Hacktoberfest` in the PR Description. This would give us a confirmation on whether the PR is for Hacktoberfest. 
 
 Please ensure your submission follows all the Contribution Guidelines mentioned in the respective Repositories.
