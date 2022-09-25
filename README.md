@@ -1,6 +1,6 @@
-<h1 align='center'>:fire: Hacktoberfest2021 :fire:</h1>
+<h1 align='center'>:fire: Hacktoberfest2022 :fire:</h1>
 
-![hacktoberfest-2021](./assets/hacktoberfest2021.png)
+![hacktoberfest-2022](./assets/hacktoberfest2022.png)
 
 [Devtron](https://github.com/devtron-labs/devtron) is honoured to celebrate it's 1st hacktoberfest with the community all across the globe. Being an opensource platform, we welcome developers with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognise all your efforts for contributions and would like to honour your work by providing you some great goodies and giveaways from our end apart from hacktoberfest.
 
@@ -22,14 +22,14 @@ Let's Get Started
 
 * [Sample Docker Templates](https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates)
 
+* [Feature: Use cluster-name instead of server url in Argocd application objects](https://github.com/devtron-labs/devtron/issues/2378)
+
 * [Documentations](https://docs.devtron.ai/)
 
 
 
 
 ### :hammer: Silver-Surfer (Issues)
-
-* [Color output unreadable in terminal with light background](https://github.com/devtron-labs/silver-surfer/issues/9)
 
 * [Depict the output in json format](https://github.com/devtron-labs/silver-surfer/issues/11)
 
