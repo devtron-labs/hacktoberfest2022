@@ -29,6 +29,68 @@ Under [Devtron-labs](https://github.com/devtron-labs) we have multiple repositor
 
 Hacktoberfest would be incomplete without some nice events to go with it. In the spirit of Hacktoberfest, we have planned out some great events throughout October. Keep reading to know more about the events and how to participate.
 
+<details>
+<summary>Micro-Blogs - All month long</summary> 
+<br>
+We love blogs. Especially when the blogs are short and sweet and are informative. We have created a list of topics on which you can write blogs on.
+
+Write and publish your blogs on your favorite blogging platform and [raise a PR](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) so we can read it. Share it on socials and use '#Devtron'
+
+At the end of the month, we will be giving out the following prizes to the winners! And if you're blogs really stand out, we might even feature them on our socials :wink:
+
+[List of Prizes]
+</details>
+
+<details>
+<summary>Hunt-a-Bug - October 9th to October 31st</summary> 
+<br>
+Nobody likes bugs. Especially if those bugs prevent you from doing the product is inteneded for. We had a major release recently and haven't had much opportunity to test it well.
+
+We would apprecite your help in testing Devtron to make sure it works properly.
+
+### :question: How do I contribute?
+
+It's simple. Use the [documentation](https://docs.devtron.ai/) to install and use Devtron. You can install it on various cloud providers to make sure that it installs without any problems.
+
+You can also test weather it works on [MicroK8S](https://www.youtube.com/watch?v=Somq_ZWzO3E) on a VM instance. If you find any bugs, please raise a issue in the [Devtron Repository](https://github.com/devtron-labs/devtron).
+
+Not sure if what you are facing is a bug? Hop over in our [Discord Community](https://discord.gg/QybkzXkPJR) and we can figure out if it's a big or not :smile:
+
+If you think you know what's wrong, feel free to discuss it with the mainatiners and open a PR to fix the bugs :wrench:
+
+[List of Prizes]
+</details>
+
+
+<details>
+<summary>Creative Event (Art-a-Thon) - October 16th to October 23 </summary> 
+<br>
+
+Calling all art lovers! We need some `Devtron X Hacktoberfest` art! Do you think you're up for the challenge?
+
+:questions: How to participate?
+
+- Star [Devtron](https://github.com/devtron-labs/devtron) on GitHub
+- Follow us on [Twitter](https://twitter.com/DevtronL)
+- Make some art and share it on Twitter. Don't forget to tag us!
+
+Don't miss this chance to show off your creative side.
+
+ [Prizes]
+</details>
+
+<details>
+<summary>Threads - October 23rd to October 31st </summary> 
+<br>
+
+This will be the last week of Hacktoberfest 2022. Hopefully by this time you've had a good expereince and learned a ton of new things.
+
+We would love to heard your expereinces during Hacktoberfest.
+
+Write a Twitter Thread and and tag us in it! We'll be giving out some goodies to folks who share their expereinces.
+
+ [Prizes]
+</details>
 
 ## :busts_in_silhouette: Our Community
 If you have any issues, concerns regarding the contributions or you’re curious to know more about Devtron; we would love to have you in our Discord Community!<br>
