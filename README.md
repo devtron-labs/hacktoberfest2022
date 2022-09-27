@@ -6,76 +6,38 @@
 
 We are happy to see you here and we believe that each [star ⭐️](https://github.com/devtron-labs/devtron) enables us in showcasing devtron to a wider community.  
 
+We also have a lot of events to make your Hacktoberfest expereince a enjoybale one! Keep reading to know all the ways in which you can contribute and win some goodies. 
+
 **Happy Hacking!**
 
 ## :wrench: Repositories & Contribution Ideas
 
-Under [Devtron-labs](https://github.com/devtron-labs) we have repos that are labeled [Hacktoberfest](https://github.com/search?q=org%3Adevtron-labs+hacktoberfest&type=repositories). These are some of the repos that you might want to start with, jump in and find interesting ways to contribute.
+Under [Devtron-labs](https://github.com/devtron-labs) we have multiple repositories that hold some part of the code that goes into making Devtron what it is. You can learn about those in the [Contributing Guide](https://github.com/devtron-labs/devtron/blob/main/CONTRIBUTING.md) in Devtron's main repository. 
 
 **Note: Non-Code PR Submissions need to have meaningful changes that span over 20 lines. PRs would not be accepted if the changes seem too insignificant or unnecessary.**
 
-Let's Get Started
+### :hammer: Some areas that need contributions
 
-### :hammer: Devtron
+* [Community Chart Contributions](https://github.com/devtron-labs/devtron/tree/main/contrib-chart) - Add custom helm charts that can be used in Devtron
 
-* [Community Chart Contributions](https://github.com/devtron-labs/devtron/tree/main/contrib-chart)
+* [Sample Docker Templates](https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates) - Add Dockerfile templates for various technologies. Eg, Django templates, Gradle Templates, etc
 
-* [Sample Docker Templates](https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates)
-
-* [Documentations](https://docs.devtron.ai/)
+* [Documentations](https://docs.devtron.ai/) - See a feature that isn't mentioned in the documentation? Open a PR and add it to the documentation.
 
 
+## :rotating_light:  Events
 
+Hacktoberfest would be incomplete without some nice events to go with it. In the spirit of Hacktoberfest, we have planned out some great events throughout October. Keep reading to know more about the events and how to participate.
 
-### :hammer: Silver-Surfer (Issues)
-
-* [Color output unreadable in terminal with light background](https://github.com/devtron-labs/silver-surfer/issues/9)
-
-* [Depict the output in json format](https://github.com/devtron-labs/silver-surfer/issues/11)
-
-* [Capability to run as a Server](https://github.com/devtron-labs/silver-surfer/issues/12)
-
-* [Cluster Upgrade Recommendation](https://github.com/devtron-labs/silver-surfer/issues/13)
-
-* [Built in Helm Chart Support](https://github.com/devtron-labs/silver-surfer/issues/14)
-
-### :hammer: Contribution Ideas
-
-* If you would like to contribute through videos & blogs you can check out [Community Contributions](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md).
-
-* We also welcome the issues and enhancements raised by our contributors as we believe in the phrase ”Together we are stronger”. Feel free to create your valid issues which you think are essential in the respective repositories. We will soon assign them to you so that you can give your best shot.
-
-* We believe you all are talented enough to have your own contribution ideas and suggestions. We welcome you all with open hands.
 
 ## :busts_in_silhouette: Our Community
-If you have any issues, concerns regarding the contributions or you’re curious to know more about Devtron; we would love to have you in our Community!<br>
+If you have any issues, concerns regarding the contributions or you’re curious to know more about Devtron; we would love to have you in our Discord Community!<br>
 
 [![Join Devtron : Heroku for Kubernetes](https://discordapp.com/api/guilds/769482988882493450/widget.png?style=banner2)](https://discord.gg/jsRG5qx2gp)
 
-## :gift: Giveaways
-
-We have exciting gifts for our contributors during Hacktoberfest celebrating Opensource. Each of your additional accepted PR to anyone of our Repos would give you more exciting giveaways. 
-
-**Note: 1 Blog submission/ 1 Video Submission is considered 2 PR submissions.**
-
-| No of PR submissions  | Swag! |
-| ------------- | ------------- |
-| 1 Merged PR  | Stickers Pack + 1 T-Shirt |
-| 2 Merged PR  | Stickers Pack + 1 Diary + 1 T-Shirt  |
-| 3 or 3+ Merged PR  | Stickers Pack + 1 Diary + 1 T-Shirt + 1 Coaster (Devtron Swag Pack)  |
-| Special Prize: Most Innovative/Unique PR  | Devtron Swag Pack + Surprise Box  |
-| Special Prize: Maximum number of PRs  | Devtron Swag Pack + Surprise Box  |
-
-### Giveaways Entry Steps
-
-* Once the PR is raised you can join the [discord community](https://discord.gg/jsRG5qx2gp) for the upcoming updates.
-
-* After joining the community, send your PR link on the #contrib channel with the tag @hacktoberfest.
-
-* We will evaluate the PR and once it is accepted , we will send you the swags.
 
 ## :book: Contribution Guidelines
 
-You are welcome to contribte in any of the repositories listed above. Feel free to play around devtron and explore its different features. When submitting a PR please add `Hacktoberfest` in the PR Description. This would give us a confirmation on whether the PR is for Hacktoberfest. 
+You are welcome to contribte in any of the repositories. Feel free to play around with devtron and explore its different features. When submitting a PR please add `Hacktoberfest` in the PR Description. This would give us a confirmation on whether the PR is for Hacktoberfest. 
 
 Please ensure your submission follows all the Contribution Guidelines mentioned in the respective Repositories.
