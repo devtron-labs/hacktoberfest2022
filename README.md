@@ -1,6 +1,8 @@
+
 <h1 align='center'> :fire: Hacktoberfest 2022 :fire:</h1>
 
 ![hacktoberfest-2022](./assets/Hacktoberfest-2022.png)
+
 
 [Devtron](https://github.com/devtron-labs/devtron) is honored to celebrate its 1st hacktoberfest with the community all across the globe. Being an open-source platform, we welcome developers with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognize all your efforts for contributions and would like to honor your work by providing you some great goodies and giveaways from our end apart from hacktoberfest.
 
@@ -24,7 +26,6 @@ Under [Devtron-labs](https://github.com/devtron-labs) we have multiple repositor
 
 * [Documentation](https://docs.devtron.ai/) - See a feature that isn't mentioned in the documentation? Open a PR and add it to the documentation.
 
-
 ## :rotating_light:  Events
 
 Hacktoberfest would be incomplete without some nice events to go with it. In the spirit of Hacktoberfest, we have planned out some great events throughout October. Keep reading to know more about the events and how to participate.
@@ -36,10 +37,12 @@ We love blogs. Especially when the blogs are short and sweet and informative. We
 
 Write and publish your blogs on your favorite blogging platform and [raise a PR](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) so we can read it. Share it on social and use '#Devtron'
 
+
 At the end of the month, we will be giving out the following prizes to the winners! And if your blog really stands out, we might even feature them on our socials :wink:
 
 [List of Prizes]
 </details>
+
 
 <details>
 <summary>Hunt-a-Bug - October 9th to October 31st</summary> 
