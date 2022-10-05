@@ -1,81 +1,108 @@
-<h1 align='center'>:fire: Hacktoberfest2021 :fire:</h1>
 
-![hacktoberfest-2021](./assets/hacktoberfest2021.png)
+<h1 align='center'> :fire: Hacktoberfest 2022 :fire:</h1>
 
-[Devtron](https://github.com/devtron-labs/devtron) is honoured to celebrate it's 1st hacktoberfest with the community all across the globe. Being an opensource platform, we welcome developers with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognise all your efforts for contributions and would like to honour your work by providing you some great goodies and giveaways from our end apart from hacktoberfest.
+![hacktoberfest-2022](./assets/Hacktoberfest-2022.png)
+
+
+[Devtron](https://github.com/devtron-labs/devtron) is honored to celebrate its 1st hacktoberfest with the community all across the globe. Being an open-source platform, we welcome developers with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognize all your efforts for contributions and would like to honor your work by providing you some great goodies and giveaways from our end apart from hacktoberfest.
 
 We are happy to see you here and we believe that each [star ⭐️](https://github.com/devtron-labs/devtron) enables us in showcasing devtron to a wider community.  
+
+We also have a lot of events to make your Hacktoberfest experience an enjoyable one! Keep reading to know all the ways in which you can contribute and win some goodies. 
 
 **Happy Hacking!**
 
 ## :wrench: Repositories & Contribution Ideas
 
-Under [Devtron-labs](https://github.com/devtron-labs) we have repos that are labeled [Hacktoberfest](https://github.com/search?q=org%3Adevtron-labs+hacktoberfest&type=repositories). These are some of the repos that you might want to start with, jump in and find interesting ways to contribute.
+Under [Devtron-labs](https://github.com/devtron-labs) we have multiple repositories that hold some part of the code that goes into making Devtron what it is. You can learn about those in the [Contributing Guide](https://github.com/devtron-labs/devtron/blob/main/CONTRIBUTING.md) in Devtron's main repository. 
 
 **Note: Non-Code PR Submissions need to have meaningful changes that span over 20 lines. PRs would not be accepted if the changes seem too insignificant or unnecessary.**
 
-Let's Get Started
+### :hammer: Some areas that need contributions
 
-### :hammer: Devtron
+* [Community Chart Contributions](https://github.com/devtron-labs/devtron/tree/main/contrib-chart) - Add custom helm charts that can be used in Devtron
 
-* [Community Chart Contributions](https://github.com/devtron-labs/devtron/tree/main/contrib-chart)
+* [Sample Docker Templates](https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates) - Add Dockerfile templates for various technologies. Eg, Django templates, Gradle Templates, etc
 
-* [Sample Docker Templates](https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates)
+* [Documentation](https://docs.devtron.ai/) - See a feature that isn't mentioned in the documentation? Open a PR and add it to the documentation.
 
-* [Documentations](https://docs.devtron.ai/)
+## :rotating_light:  Events
+
+Hacktoberfest would be incomplete without some nice events to go with it. In the spirit of Hacktoberfest, we have planned out some great events throughout October. Keep reading to know more about the events and how to participate.
+
+<details>
+<summary>Micro-Blogs - All month long</summary> 
+<br>
+We love blogs. Especially when the blogs are short and sweet and informative. We have created a list of topics on which you can write blogs.
+
+Write and publish your blogs on your favorite blogging platform and [raise a PR](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) so we can read it. Share it on social and use '#Devtron'
 
 
+At the end of the month, we will be giving out the following prizes to the winners! And if your blog really stands out, we might even feature them on our socials :wink:
+
+[List of Prizes]
+</details>
 
 
-### :hammer: Silver-Surfer (Issues)
+<details>
+<summary>Hunt-a-Bug - October 9th to October 31st</summary> 
+<br>
+Nobody likes bugs. Especially if those bugs prevent you from doing what the product is intended for. We had a major release recently and haven't had much opportunity to test it well.
 
-* [Color output unreadable in terminal with light background](https://github.com/devtron-labs/silver-surfer/issues/9)
+We would appreciate your help in testing Devtron to make sure it works properly.
 
-* [Depict the output in json format](https://github.com/devtron-labs/silver-surfer/issues/11)
+### :question: How do I contribute?
 
-* [Capability to run as a Server](https://github.com/devtron-labs/silver-surfer/issues/12)
+It's simple. Use the [documentation](https://docs.devtron.ai/) to install and use Devtron. You can install it on various cloud providers to make sure that it installs without any problems.
 
-* [Cluster Upgrade Recommendation](https://github.com/devtron-labs/silver-surfer/issues/13)
+You can also test whether it works on [MicroK8S](https://www.youtube.com/watch?v=Somq_ZWzO3E) on a VM instance. If you find any bugs, please raise an issue in the [Devtron Repository](https://github.com/devtron-labs/devtron).
 
-* [Built in Helm Chart Support](https://github.com/devtron-labs/silver-surfer/issues/14)
+Not sure if what you are facing is a bug? Hop over in our [Discord Community](https://discord.gg/QybkzXkPJR) and we can figure out if it's big or not :smile:
 
-### :hammer: Contribution Ideas
+If you think you know what's wrong, feel free to discuss it with the maintainers and open a PR to fix the bugs :wrench:
 
-* If you would like to contribute through videos & blogs you can check out [Community Contributions](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md).
+[List of Prizes]
+</details>
 
-* We also welcome the issues and enhancements raised by our contributors as we believe in the phrase ”Together we are stronger”. Feel free to create your valid issues which you think are essential in the respective repositories. We will soon assign them to you so that you can give your best shot.
 
-* We believe you all are talented enough to have your own contribution ideas and suggestions. We welcome you all with open hands.
+<details>
+<summary>Creative Event (Art-a-Thon) - October 16th to October 23 </summary> 
+<br>
+
+Calling all art lovers! We need some `Devtron X Hacktoberfest` art! Do you think you're up for the challenge?
+
+:questions: How to participate?
+
+- Star [Devtron](https://github.com/devtron-labs/devtron) on GitHub
+- Follow us on [Twitter](https://twitter.com/DevtronL)
+- Make some art and share it on Twitter. Don't forget to tag us!
+
+Don't miss this chance to show off your creative side.
+
+ [Prizes]
+</details>
+
+<details>
+<summary>Threads - October 23rd to October 31st </summary> 
+<br>
+
+This will be the last week of Hacktoberfest 2022. Hopefully by this time you've had a good experience and learned a ton of new things.
+
+We would love to hear about your experiences during Hacktoberfest.
+
+Write a Twitter Thread and tag us in it! We'll be giving out some goodies to folks who share their experiences.
+
+ [Prizes]
+</details>
 
 ## :busts_in_silhouette: Our Community
-If you have any issues, concerns regarding the contributions or you’re curious to know more about Devtron; we would love to have you in our Community!<br>
+If you have any issues, concerns regarding the contributions or you’re curious to know more about Devtron; we would love to have you in our Discord Community!<br>
 
 [![Join Devtron : Heroku for Kubernetes](https://discordapp.com/api/guilds/769482988882493450/widget.png?style=banner2)](https://discord.gg/jsRG5qx2gp)
 
-## :gift: Giveaways
-
-We have exciting gifts for our contributors during Hacktoberfest celebrating Opensource. Each of your additional accepted PR to anyone of our Repos would give you more exciting giveaways. 
-
-**Note: 1 Blog submission/ 1 Video Submission is considered 2 PR submissions.**
-
-| No of PR submissions  | Swag! |
-| ------------- | ------------- |
-| 1 Merged PR  | Stickers Pack + 1 T-Shirt |
-| 2 Merged PR  | Stickers Pack + 1 Diary + 1 T-Shirt  |
-| 3 or 3+ Merged PR  | Stickers Pack + 1 Diary + 1 T-Shirt + 1 Coaster (Devtron Swag Pack)  |
-| Special Prize: Most Innovative/Unique PR  | Devtron Swag Pack + Surprise Box  |
-| Special Prize: Maximum number of PRs  | Devtron Swag Pack + Surprise Box  |
-
-### Giveaways Entry Steps
-
-* Once the PR is raised you can join the [discord community](https://discord.gg/jsRG5qx2gp) for the upcoming updates.
-
-* After joining the community, send your PR link on the #contrib channel with the tag @hacktoberfest.
-
-* We will evaluate the PR and once it is accepted , we will send you the swags.
 
 ## :book: Contribution Guidelines
 
-You are welcome to contribte in any of the repositories listed above. Feel free to play around devtron and explore its different features. When submitting a PR please add `Hacktoberfest` in the PR Description. This would give us a confirmation on whether the PR is for Hacktoberfest. 
+You are welcome to contribute to any of the repositories. Feel free to play around with devtron and explore its different features. When submitting a PR please add `Hacktoberfest` in the PR Description. This would give us a confirmation on whether the PR is for Hacktoberfest. 
 
 Please ensure your submission follows all the Contribution Guidelines mentioned in the respective Repositories.
