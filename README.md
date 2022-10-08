@@ -1,9 +1,9 @@
 
 <h1 align='center'> :fire: Hacktoberfest 2022 :fire:</h1>
 
-![hacktoberfest-2022](./assets/hacktoberfest2022-devtron.jpg)
+![hacktoberfest-2022](./assets/hacktoberfest.jpg)
 
-[Devtron](https://github.com/devtron-labs/devtron) is honored to partner with hacktoberfest to celebrate opensource with the community all across the globe. Being an open-source platform, we welcome Developers, DevOps Practitioners, Technical Writers, Designers and everyone else with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognize all your efforts for contributions and would like to honor your work by providing you some great goodies and giveaways from our end apart from Hacktoberfest.
+[Devtron](https://github.com/devtron-labs/devtron) is honored to partner with Hacktoberfest to celebrate opensource with the community all across the globe. Being an open-source platform, we welcome Developers, DevOps Practitioners, Technical Writers, Designers and everyone else with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognize all your efforts for contributions and would like to honor your work by providing you some great goodies and giveaways from our end apart from Hacktoberfest.
 
 We are happy to see you here and we believe that each [star ⭐️](https://github.com/devtron-labs/devtron) enables us in showcasing devtron to a wider community.
 
@@ -39,15 +39,14 @@ We love blogs! Especially when the blogs are short and crisp. In this month long
 
 Please [refer this](Docs/blogathon-rules.md) for participation guidelines.
 
-#### Prices
+#### Prizes
 
 | Rank | Swags! |
 | ------------- | ------------- |
-| 1st  | Devtron's Limited Edition Swag Kit + $100 Amazon Vouchers |
-| 2nd | Devtron's Limited Edition Swag Kit + $75 Amazon Vouchers |
-| 3rd | Devtron's Limited Edition Swag Kit + $50 Amazon Vouchers |
-| 4th - 10th | Devtron's Limited Edition Stickers + $25 Amazon Vouchers |
-
+| 1st  | Devtron's Limited Edition Swag Kit + $100 Amazon Voucher |
+| 2nd | Devtron's Limited Edition Swag Kit + $75 Amazon Voucher |
+| 3rd | Devtron's Limited Edition Swag Kit + $50 Amazon Voucher |
+| 4th - 10th | Devtron's Limited Edition Stickers + $25 Amazon Voucher |
 
 ## Hunt-a-Bug: 9th Oct. - 31st Oct. 🐞
 
@@ -59,16 +58,15 @@ Please [refer this](Docs/hunt-a-bug-rules.md) for participation guidelines.
 
 If you think you know what's wrong, feel free to discuss it with the maintainers and open a PR to fix the bugs :wrench:
 
-#### Prices
+#### Prizes
 
 | Rank | Swags! |
 | ------------- | ------------- |
-| 1st | Devtron's Limited Edition Swag Kit + $300 Amazon Vouchers |
-| 2nd | Devtron's Limited Edition Swag Kit + $200 Amazon Vouchers |
-| 3rd | Devtron's Limited Edition Swag Kit + $100 Amazon Vouchers |
-| 4th | Devtron's Limited Edition Stickers + $75 Amazon Vouchers |
-| 5th | Devtron's Limited Edition Stickers + $50 Amazon Vouchers |
-| 6th - 10th | Devtron's Limited Edition Stickers + $25 Amazon Vouchers |
+| 1st | Devtron's Limited Edition Swag Kit + $250 Amazon Voucher |
+| 2nd | Devtron's Limited Edition Swag Kit + $200 Amazon Voucher |
+| 3rd | Devtron's Limited Edition Swag Kit + $150 Amazon Voucher |
+| 4th | Devtron's Limited Edition Stickers + $100 Amazon Voucher |
+| 5th | Devtron's Limited Edition Stickers + $50 Amazon Voucher |
 
 ## Art-a-Thon: 16th Oct. - 23rd Oct. 🎨
 
@@ -79,11 +77,11 @@ Unleash the artist in you and make creatives around the mentioned theme and shar
 
 - Star the [Devtron](https://github.com/devtron-labs/devtron) repo on GitHub
 - Follow us on [Twitter](https://twitter.com/DevtronL)
-- Make some art and share it on Twitter. Tag `@DevtronL` and use `#HacktoberWithDevtron`, `#Devtron` on your posts.
+- Make some art and share it on Twitter. Tag `@DevtronL` and use `#Hacktoberfest`, `#Devtron` on your posts.
   
 Don't miss this chance to show off the artist in you.
 
-#### Prices
+#### Prizes
 
 | Rank | Swags! |
 | ------------- | ------------- |
@@ -100,8 +98,9 @@ We would love to hear about your experiences during Hacktoberfest.
 
 1. Star the [Devtron](https://github.com/devtron-labs/devtron) repo on GitHub
 2. Follow us on [Twitter](https://twitter.com/DevtronL)
-3. Write a Twitter Thread and tag `@DevtronL` in it along with `#HacktoberWithDevtron` and `#Devtron`
-4. Devtron's Limited Edition Swag Kit giveaways to selected random winners
+3. Write a Twitter Thread and tag `@DevtronL` in it along with `#Hacktoberfest` and `#Devtron`
+
+**Devtron's Limited Edition Swag Kit giveaways to selected random winners**
 
 # :busts_in_silhouette: Our Community
 
