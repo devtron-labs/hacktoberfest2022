@@ -27,7 +27,7 @@ Under [Devtron-labs](https://github.com/devtron-labs) we have multiple repositor
 
 * [Documentation](https://docs.devtron.ai/) - See a feature that isn't mentioned in the documentation or the documentation is not updated? Open a PR and add it to the documentation.
 
-* [Write a Blog for Devtron](Docs/blog-contributions.md)
+* [Contribute a Blog](Docs/blog-contributions.md)
 
 # :rotating_light:  Events
 
