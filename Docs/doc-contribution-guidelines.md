@@ -1,4 +1,6 @@
 
+# Contributor Guidelines to Devtron documentation during Hacktoberfest
+
 First, we would like to encourage you to contribute to an open source Devtron docs repository with meaningful PR.
 
 When you are contributing to the Devtron documentation, please read these contribution guidelines carefully.
