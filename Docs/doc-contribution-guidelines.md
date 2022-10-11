@@ -16,6 +16,7 @@ When you are contributing to the Devtron documentation, please read these contri
 - Do Not use unnecessary capitalization except titles (all-caps for first initial letters).
 
 
-If you're interested in writing new content or in thoroughly revising existing content, open an issue describing what you want to do. 
+If you're interested in writing new content or in thoroughly revising existing content, open an issue describing what you want to do. Feel free to connect with the maintainers at [Discord Channel](https://discord.devtron.ai/) for any queries or suggestions.
 
 Get feedback on your proposal. 
+
