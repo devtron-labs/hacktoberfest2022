@@ -33,7 +33,7 @@ Under [Devtron-labs](https://github.com/devtron-labs) we have multiple repositor
 
 Hacktoberfest would be incomplete without some nice events to go with it. In the spirit of Hacktoberfest, we have planned out some great events throughout October. Keep reading to know more about the events and how to participate.
 
-## Micro-Blogathon: 1st Oct. - 30th Oct. 📝
+### Micro-Blogathon: 1st Oct. - 30th Oct. 📝
 
 We love blogs! Especially when the blogs are short and crisp. In this month long Blogathon, we invite all the blogger to share their expereinces and expertise on the topics - Kubernetes, DevOps and Devtron. <br>
 
@@ -43,12 +43,12 @@ Please [refer this](Docs/blogathon-rules.md) for participation guidelines.
 
 | Rank | Swags! |
 | ------------- | ------------- |
-| 1st  | Devtron's Limited Edition Swag Kit + $100 Amazon Voucher |
-| 2nd | Devtron's Limited Edition Swag Kit + $75 Amazon Voucher |
-| 3rd | Devtron's Limited Edition Swag Kit + $50 Amazon Voucher |
-| 4th - 10th | Devtron's Limited Edition Stickers + $25 Amazon Voucher |
+| 1st  | Devtron's Limited Edition Swag Kit + Fire HD 10 tablet, 10.1" |
+| 2nd | Devtron's Limited Edition Swag Kit + Echo 4th Gen |
+| 3rd | Devtron's Limited Edition Swag Kit + Fire TV Stick 4K Max streaming device |
+| 4th - 10th | Surprize Box |
 
-## Hunt-a-Bug: 9th Oct. - 31st Oct. 🐞
+### Hunt-a-Bug: 9th Oct. - 31st Oct. 🐞
 
 Calling out all bug hunters for this exciting event.
 
@@ -62,13 +62,13 @@ If you think you know what's wrong, feel free to discuss it with the maintainers
 
 | Rank | Swags! |
 | ------------- | ------------- |
-| 1st | Devtron's Limited Edition Swag Kit + $250 Amazon Voucher |
-| 2nd | Devtron's Limited Edition Swag Kit + $200 Amazon Voucher |
-| 3rd | Devtron's Limited Edition Swag Kit + $150 Amazon Voucher |
-| 4th | Devtron's Limited Edition Stickers + $100 Amazon Voucher |
-| 5th | Devtron's Limited Edition Stickers + $50 Amazon Voucher |
+| 1st | Devtron's Limited Edition Swag Kit + SAMSUNG Galaxy Tab A8 |
+| 2nd | Devtron's Limited Edition Swag Kit + Google Home Mini with Google Assistant Smart Speaker |
+| 3rd | Devtron's Limited Edition Swag Kit + Raspberry Pi 4 |
+| 4th - 5th | Surprize Box |
 
-## Art-a-Thon: 16th Oct. - 23rd Oct. 🎨
+
+### Art-a-Thon: 16th Oct. - 23rd Oct. 🎨
 
 Calling all art lovers! We need some `Devtron X Opensource` art! Do you think you're up for the challenge?
 Unleash the artist in you and make creatives around the mentioned theme and share it on Twitter, Linkedin & tag us!
@@ -89,7 +89,7 @@ Don't miss this chance to show off the artist in you.
 | 2nd | Devtron's Limited Edition Diary + stickers |
 | 3rd | Devtron's Limited Edition stickers |
 
-## HackDiaries: 23rd Oct. - 31st Oct. 🧵
+### HackDiaries: 23rd Oct. - 31st Oct. 🧵
 
 This will be the last week of Hacktoberfest 2022. Hopefully by this time you've had a good experience and learned a ton of new things.
 We would love to hear about your experiences during Hacktoberfest.
