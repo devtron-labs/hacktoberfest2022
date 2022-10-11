@@ -7,6 +7,8 @@
 3. Try different installation varitions with different options as mentioned in documentation. For eg - with enabled ArgoCD, Clair, etc
 4. If stuck somewhere, share the isssue on `hacktoberfest` channel with community
 5. Not sure if what you are facing is a bug? Hop over in our [Discord Community](https://discord.gg/QybkzXkPJR) and we can figure it out together
+6. Once you get the bug, create an [Github Issue](https://github.com/devtron-labs/devtron/issues/new/choose) for it and label it with `hunt-a-bug`
+7. Share the issue URL in `hunt-a-bug` channel with our Discord Community
 
 ### Suggested Cloud Providers
 
