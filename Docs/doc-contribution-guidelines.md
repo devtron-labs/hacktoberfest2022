@@ -1,5 +1,5 @@
 
-# Contributor Guidelines to Devtron Documentation during Hacktoberfest
+# Contributor Guidelines for Documentation
 
 First, we would like to encourage you to contribute to an open source Devtron docs repository with meaningful PR.
 
