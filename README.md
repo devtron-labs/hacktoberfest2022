@@ -31,7 +31,7 @@ Under [Devtron-labs](https://github.com/devtron-labs) we have multiple repositor
 
 # :rotating_light:  Events
 
-Hacktoberfest would be incomplete without some nice events to go with it. In the spirit of Hacktoberfest, we have planned out some great events throughout October. Keep reading to know more about the events and how to participate.
+Hacktoberfest would be incomplete without some nice events to go with it. In the spirit of Hacktoberfest, we have planned out some great events throughout October. Keep reading to know more about the events and how to participate. For every submission during the below events, please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSd4DklOIJMS4buqCw7CBnw16m01grb8cvSgjbbIF_pPJjIiUg/viewform) with your submission type and link to help us keep track of all submissions
 
 ### Micro-Blogathon: 1st Oct. - 30th Oct. 📝
 
