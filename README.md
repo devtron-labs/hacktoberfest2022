@@ -120,3 +120,8 @@ If you have any issues, concerns regarding the contributions or you’re curious
 You are welcome to contribute to any of the repositories. Feel free to play around with devtron and explore its different features. When submitting a PR please add `Hacktoberfest` in the PR Description. This would give us a confirmation on whether the PR is for Hacktoberfest.
 
 Please ensure your submission follows all the Contribution Guidelines mentioned in the respective Repositories.
+
+## Thanks to all contributors ❤
+<a href="https://github.com/Devtron-Labs/Hacktoberfest2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Devtron-Labs/Hacktoberfest2022" />
+</a>
