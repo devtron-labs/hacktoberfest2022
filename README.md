@@ -3,7 +3,7 @@
 
 ![hacktoberfest-2022](./assets/hacktoberfest.jpg)
 
-[Devtron](https://github.com/devtron-labs/devtron) is honored to partner with Hacktoberfest to celebrate opensource with the community all across the globe. Being an open-source platform, we welcome Developers, DevOps Practitioners, Technical Writers, Designers and everyone else with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognize all your efforts for contributions and would like to honor your work by providing you some great goodies and giveaways from our end apart from Hacktoberfest.
+[Devtron](https://github.com/devtron-labs/devtron) is honored to partner with Hacktoberfest to celebrate opensource with the community all across the globe. Being an open-source platform, we welcome Developers, DevOps Practitioners, Technical Writers, Designers and everyone else with all experiences to give their fair shot at contributing and helping our Opensource projects. We recognize all your efforts for contributions and would like to honor your work by providing you with some great goodies and giveaways from our end apart from Hacktoberfest.
 
 We are happy to see you here and we believe that each [star ⭐️](https://github.com/devtron-labs/devtron) enables us in showcasing devtron to a wider community.
 
@@ -19,13 +19,13 @@ Under [Devtron-labs](https://github.com/devtron-labs) we have multiple repositor
 
 ### :hammer: Beginner's Contributions
 
-* [Good First Issue](https://github.com/devtron-labs/devtron/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) - Curated issues for begineers to kick start their open source contributions. Feel free to reach out us on discord community for any queries.
+* [Good First Issue](https://github.com/devtron-labs/devtron/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) - Curated issues for beginners to kick start their open source contributions. Feel free to reach out to us on the discord community for any queries.
 
 * [Bring your own Chart](https://github.com/devtron-labs/devtron/tree/main/contrib-chart) - Add custom helm charts that can be used in Devtron for deployments.
 
-* [Sample Docker Templates](https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates) - Add Dockerfile templates for various technologies that is not present in the given directory.
+* [Sample Docker Templates](https://github.com/devtron-labs/devtron/tree/main/sample-docker-templates) - Add Dockerfile templates for various technologies that are not present in the given directory.
 
-* [Documentation](https://docs.devtron.ai/) - See a feature that isn't mentioned in the documentation or the documentation is not updated? Open a PR and add it to the documentation. For contributing to Devtron documention, please refer the [doc contribution guidelines](Docs/doc-contribution-guidelines.md).
+* [Documentation](https://docs.devtron.ai/) - See a feature that isn't mentioned in the documentation or the documentation is not updated? Open a PR and add it to the documentation. For contributing to Devtron documentation, please refer the [doc contribution guidelines](Docs/doc-contribution-guidelines.md).
 
 * [Contribute a Blog](Docs/blog-contributions.md)
 
@@ -35,7 +35,7 @@ Hacktoberfest would be incomplete without some nice events to go with it. In the
 
 ### Micro-Blogathon: 1st Oct. - 30th Oct. 📝
 
-We love blogs! Especially when the blogs are short and crisp. In this month long Blogathon, we invite all the blogger to share their expereinces and expertise on the topics - Kubernetes, DevOps and Devtron. <br>
+We love blogs! Especially when the blogs are short and crisp. In this month long Blogathon, we invite all the blogger to share their expereiences and expertise on the topics - Kubernetes, DevOps and Devtron. <br>
 
 Please [refer this](Docs/blogathon-rules.md) for participation guidelines.
 
@@ -46,7 +46,7 @@ Please [refer this](Docs/blogathon-rules.md) for participation guidelines.
 | 1st  | Devtron's Limited Edition Swag Kit + Fire HD 10 tablet, 10.1" |
 | 2nd | Devtron's Limited Edition Swag Kit + Echo 4th Gen |
 | 3rd | Devtron's Limited Edition Swag Kit + Fire TV Stick 4K Max streaming device |
-| 4th - 10th | Surprize Box |
+| 4th - 10th | Surprise Box |
 
 ### Hunt-a-Bug: 9th Oct. - 31st Oct. 🐞
 
@@ -65,7 +65,7 @@ If you think you know what's wrong, feel free to discuss it with the maintainers
 | 1st | Devtron's Limited Edition Swag Kit + SAMSUNG Galaxy Tab A8 |
 | 2nd | Devtron's Limited Edition Swag Kit + Google Home Mini with Google Assistant Smart Speaker |
 | 3rd | Devtron's Limited Edition Swag Kit + Raspberry Pi 4 |
-| 4th - 5th | Surprize Box |
+| 4th - 5th | Surprise Box |
 
 
 ### Art-a-Thon: 16th Oct. - 23rd Oct. 🎨
