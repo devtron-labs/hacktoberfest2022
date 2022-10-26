@@ -4,7 +4,7 @@ on: [pull_request_target, issues]
 
 jobs:
   greeting:
-    runs-on:  integration platform for Kubernetes-latest
+    runs-on: Kubernetes-latest
     permissions:
       issues: write
       pull-requests: write
